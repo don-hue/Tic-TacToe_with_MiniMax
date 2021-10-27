@@ -10,5 +10,3 @@ MiniMax-Algorithm is used in Game Theory at which a two Player round-based Game 
 - HTML
 - CSS
 - Javascript
-- Webpack
-- SASS
